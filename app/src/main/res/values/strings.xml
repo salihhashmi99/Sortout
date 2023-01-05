@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sort Out</string>
+    <string name="course">Course</string>
+    <string name="i_agree_all_the">I agree all the</string>
+    <string name="submit">Submit</string>
+    <string name="note_please_bring_two_passport_size_pictures_when_you_come_for_receive_your_bus_card">Note: Please bring two passport size pictures when you come for receive your Bus Card.</string>
+    <string name="term_and_condition">Term and Condition.</string>
+    <string name="bus_form_application">Bus Form Application</string>
+    <string name="stop_name">Stop Name</string>
+    <string name="morning">Morning</string>
+    <string name="evening">Evening</string>
+
+
+    <string name="heading_one">Quick And Easy Payments</string>
+    <string name="heading_two">Instant Notifications</string>
+    <string name="heading_three">Cashless Payment</string>
+    <string name="heading_fourth">Pay Anywhere</string>
+    //Description
+    <string name="desc_one">Grow your Business By Accepting Card Payments with The New Card Reader</string>
+    <string name="desc_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_fourth">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+</resources>
